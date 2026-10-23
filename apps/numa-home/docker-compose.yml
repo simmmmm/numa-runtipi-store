@@ -1,6 +1,6 @@
 services:
   numa-home:
-    image: ghcr.io/simmmmm/numa-home:0.45.1
+    image: ghcr.io/simmmmm/numa-home:0.46.0
     volumes:
       - ${ROOT_FOLDER_HOST}/media/data/images:/photos
       - ${APP_DATA_DIR}/data/sent:/sent
