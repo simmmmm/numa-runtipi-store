@@ -6,8 +6,8 @@
   "available": true,
   "exposable": true,
   "dynamic_config": true,
-  "tipi_version": 1793479283,
-  "version": "0.48.1-home.1",
+  "tipi_version": 1793484681,
+  "version": "0.48.1-home.2",
   "categories": ["photography"],
   "description": "Your household's photographs on your own server. A timeline of every photograph in the house, raws rendered with Numa's colour and edits, faces and search in words found on the server, and an account for each person. One container with SQLite. Numa Home is meant for your home network, or for Tailscale when you are away; do not put it on a public address.",
   "short_desc": "Your household's photographs, at home.",
@@ -17,6 +17,6 @@
   "form_fields": [],
   "supported_architectures": ["amd64"],
   "created_at": 1792706573558,
-  "updated_at": 1793479283000,
+  "updated_at": 1793484681000,
   "min_tipi_version": "4.8.0"
 }
