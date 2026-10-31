@@ -2,6 +2,8 @@
 
 Numa Home shows every photograph in the house in a browser, on a phone or on the TV. Raws such as RAF, ARW, CR3, NEF and DNG are rendered with [Numa](https://github.com/simmmmm/Numa)'s colour and your edits, not the camera's small preview. Faces are found and grouped, and search understands words such as "beach at sunset". Nothing goes to the cloud.
 
+Numa Home is meant for your home network, or for Tailscale when you are away; do not put it on a public address.
+
 - A timeline of every month, with a scrubber that shows each trip
 - An account for each person, and a filter by who took a photograph
 - Albums, stars and picks, shared by the household
